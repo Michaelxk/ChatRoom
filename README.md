@@ -1,6 +1,7 @@
 # ninja-chat
 
-> Practice about vue components, routes and firebase
+> Learning about Vue Components, Routes and Firebase 
+
 
 ## Build Setup
 
