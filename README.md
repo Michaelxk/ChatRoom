@@ -1,4 +1,4 @@
-# Chat-Romm
+# Chat-Room
 
 > Learning about Vue Components, Routes and Firebase 
 
