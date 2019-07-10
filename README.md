@@ -1,4 +1,4 @@
-# ninja-chat
+# Chat-Romm
 
 > Learning about Vue Components, Routes and Firebase 
 
